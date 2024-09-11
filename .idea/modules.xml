@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Account/Account.iml" filepath="$PROJECT_DIR$/IdeaProjects/Account/Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/AirCoditioner/AirCoditioner.iml" filepath="$PROJECT_DIR$/IdeaProjects/AirCoditioner/AirCoditioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/AirConditioner/AirConditioner.iml" filepath="$PROJECT_DIR$/IdeaProjects/AirConditioner/AirConditioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/AutomaticBike/AutomaticBike.iml" filepath="$PROJECT_DIR$/IdeaProjects/AutomaticBike/AutomaticBike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Collections/Collections.iml" filepath="$PROJECT_DIR$/IdeaProjects/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/E-Store/E-Store.iml" filepath="$PROJECT_DIR$/IdeaProjects/E-Store/E-Store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/IdeaProjects/PhoneBook/PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Practice/Practice.iml" filepath="$PROJECT_DIR$/IdeaProjects/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Semicolon-.iml" filepath="$PROJECT_DIR$/.idea/Semicolon-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Television/Television.iml" filepath="$PROJECT_DIR$/IdeaProjects/Television/Television.iml" />
+    </modules>
+  </component>
+</project>

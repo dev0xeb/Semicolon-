@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="VcsDirectoryMappings" defaultProject="true" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Account" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/AirCoditioner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/AirConditioner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/AutomaticBike" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/E-Store" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/PhoneBook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Semicolon-codes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Television" vcs="Git" />
+  </component>
 </project>
